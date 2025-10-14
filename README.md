@@ -19,5 +19,5 @@ To dive deep into the core architecture, economic model, and security mechanisms
 * **Dynamic Funding Rate:** An economic engine that ensures market self-correction.
 
 Join our community to stay updated!
-* **Twitter:** [вставь ссылку на твой твиттер]
-* **Discord:** [вставь ссылку на твой дискорд]
+* **Twitter:** 
+* **Discord:** 
